@@ -1,1 +1,3 @@
 Dinesh is learning JS.
+He knows python as well.
+
